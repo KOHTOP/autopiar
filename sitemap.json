@@ -1,10 +1,10 @@
 {
   "topics": {
     "ВПР": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/topics/ВПР.txt",
-    "ОГЭЭ": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/topics/ОГЭ.txt"
+    "ОГЭ": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/topics/ОГЭ.txt"
   },
   "text": {
     "ВПР": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/text/ВПР.txt",
-    "ОГЭЭ": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/text/ОГЭ.txt"
+    "ОГЭ": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/text/ОГЭ.txt"
   }
 }
