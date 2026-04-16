@@ -1,10 +1,12 @@
 {
   "topics": {
     "ВПР": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/topics/ВПР.txt",
-    "ОГЭ": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/topics/ОГЭ.txt"
+    "ОГЭ": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/topics/ОГЭ.txt",
+    "Диктант победы": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/text/%D0%B4%D0%B8%D0%BA%D1%82%D0%B0%D0%BD%D1%82%20%D0%BF%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B.txt"
   },
   "text": {
     "ВПР": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/text/ВПР.txt",
-    "ОГЭ": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/text/ОГЭ.txt"
+    "ОГЭ": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/text/ОГЭ.txt",
+    "Диктант победы": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/topics/%D0%B4%D0%B8%D0%BA%D1%82%D0%B0%D0%BD%D1%82%20%D0%BF%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B.txt"
   }
 }
