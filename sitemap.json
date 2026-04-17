@@ -10,5 +10,8 @@
     "ОГЭ": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/text/ОГЭ.txt",
     "Диктант победы": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/text/ПОБЕДА.txt",
     "Работы на сегодня": "https://raw.githubusercontent.com/KOHTOP/autopiar/refs/heads/main/text/СЕГОДНЯ.txt"
+  },
+  "public": {
+    "Public 1": "https://vk.com/club192733652"
   }
 }
